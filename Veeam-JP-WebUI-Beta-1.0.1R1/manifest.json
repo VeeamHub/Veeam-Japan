@@ -1,0 +1,18 @@
+{
+
+
+  "manifest_version": 2,
+  "name": "Veeam - Language Pack (JP)",
+  "version": "2.1.7",
+  "icons": {
+    "19": "images/icon19.png",
+    "48": "images/icon48.png"
+  },
+  "description": "Japanese language pack for Veeam Enterprise Manager Web UI",
+  "content_scripts": [{
+    "matches": ["*://*/index.aspx*", "*://*/backup/*", "*://*/restore/*", "*://*/login*", "*://*/Configuration*"],
+    "js": ["content_script.js"],
+    "run_at": "document_end"
+  }]
+
+}

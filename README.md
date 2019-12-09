@@ -1,20 +1,20 @@
-# VeeamHub Repository Template
+# Japanese UI Plugin for Veeam Enterprise Manager (Google Chrome Extension)
 
-Here are instructions on how to use this template:
+Veeam　Enterprise Manager (ユーザ向けバックアップ・リストアポータル)を日本語で利用する為のGoogle Chrome向けプラグインです
 
-* Navigate to the [main page of this repository](https://github.com/VeeamHub/veeamhub-template)
-* Follow instructions for [creating a repository from a template](https://help.github.com/en/articles/creating-a-repository-from-a-template)
-  * _Repository names **must** have the prefix:_ **veeam-**
-  * Example: _veeam-repo-name_
-* Replace **all** repository-specific links
-  * `issues` link in _README.md_
-  * `create an issue` link in _README.md_
-  * `opening a new issue` link in _CONTRIBUTING.md_
-* Remove the instructions from this section and replace it with information describing this repository.
+## 📗 インストール方法
 
-## 📗 Documentation
+* Chromeの右上のメニューから「その他のツール」→「拡張機能」を選択します
+* 新しいタブで「拡張機能」が表示されます
+* 画面の上「デベロッパーモード」のスイッチをオンにします
+* 「パッケージ化されていない拡張機能を読み込む」→「フォルダーの参照」ダイアログへ進みます
+* ダウンロードした拡張機能の保存したフォルダを選択します（Veeam-JP-WebUI-Beta-1.0.1R1)
 
-_Place documentation or links to documentation here._
+## 📗 利用方法
+
+* ChromeでVeeamUI拡張機能が有効である事を確認します
+* Veeam Enterprise ManagerのURLへアクセスします
+* 正常にインストールされていればVeeamUIが日本語で表示され、バックアップ・リストア当の作業が実施できます
 
 ## ✍ Contributions
 
