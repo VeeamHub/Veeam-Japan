@@ -2,6 +2,9 @@
 
 Veeam Enterprise Manager (ユーザ向けバックアップ・リストア用WebUI)を日本語で利用する為のGoogle Chrome向けプラグインです
 
+* Veeam Enterprise Manager [v11にて製品化されたためアーカイブ]
+* Veeam Service Provider Console （2023年1月リリース予定）
+
 ## 📗 インストール方法
 
 * Google Chrome右上のメニューから「その他のツール」→「拡張機能」を選択します
