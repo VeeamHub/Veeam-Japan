@@ -1,4 +1,4 @@
-# Japanese UI Plugin for Veeam Web UIs (Google Chrome Extension)
+# Veeam製品のWebUI専用日本語ランゲージパック（Google Chrome拡張機能）
 
 Veeam製品のWebUIの日本語ランゲージパックを公開しています
 
