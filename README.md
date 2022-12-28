@@ -1,4 +1,4 @@
-# Veeam製品のWebUI専用日本語ランゲージパック（Google Chrome拡張機能）
+# Veeam製品のWebUI専用日本語化プラグイン（Google Chrome拡張機能）
 
 Veeam製品のWebUIの日本語ランゲージパックを公開しています
 
