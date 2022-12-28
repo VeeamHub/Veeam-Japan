@@ -1,6 +1,6 @@
 # Japanese UI Plugin for Veeam Web UIs (Google Chrome Extension)
 
-Veeam Enterprise Manager (ユーザ向けバックアップ・リストア用WebUI)を日本語で利用する為のGoogle Chrome向けプラグインです
+Veeam製品のWebUIの日本語ランゲージパックを公開しています
 
 * Veeam Enterprise Manager [v11にて製品化されたためアーカイブ]
 * Veeam Service Provider Console （2023年1月リリース予定）
