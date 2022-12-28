@@ -2,8 +2,12 @@
 
 Veeam製品のWebUIの日本語ランゲージパックを公開しています
 
-* Veeam Enterprise Manager [v11にて製品化されたためアーカイブ]
+【ロードマップ】
 * Veeam Service Provider Console （2023年1月リリース予定）
+
+【アーカイブ】
+* Veeam Enterprise Manager （2019年12月公開／2021年2月 v11にて日本語化が製品化されたためアーカイブ）
+
 
 ## 📗 インストール方法
 
