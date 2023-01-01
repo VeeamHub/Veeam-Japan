@@ -1,11 +1,15 @@
-# Veeam製品WebUI専用日本語化パック（Chrome拡張機能）
+# Veeam製品WebUI用日本語化パック（Chrome拡張機能）
 
-Veeam製品のWebUIの日本語ランゲージパックを公開しています
+Veeam製品のWebUIの日本語ランゲージパックを公開しています。Veeam Japan社員が開発・公開していてますが非公式パックのため、サポート対象外となる事をご了承ください。
 
 ## 【ロードマップ】
 * __Veeam Service Provider Console__ 
   * 概要　　　　：CSP・MSPパートナー様向け：顧客バックアップの遠隔管理プラットフォーム
   * リリース　　：2023年1月中旬リリース予定
+
+* __Veeam Backup for M365 Self Service Restore Portal__ 
+  * 概要　　　　：VB365のユーザ向けセルフサービスリストアポータル
+  * リリース　　：2023年3月下旬リリース予定
 
 
 ## 【アーカイブ】
