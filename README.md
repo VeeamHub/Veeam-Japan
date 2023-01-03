@@ -39,10 +39,10 @@ Veeam製品のWebUIの日本語ランゲージパックを公開しています�
 
 We welcome contributions from the community! We encourage you to create [issues](https://github.com/VeeamHub/veeam-webui-jp-plugin/issues/new/choose) for Bugs & Feature Requests and submit Pull Requests. For more detailed information, refer to our [Contributing Guide](CONTRIBUTING.md).
 
-## 🤝🏾 License
+## 🤝🏾 ライセンス
 
 * [MIT License](LICENSE)
 
-## 🤔 Questions
+## 🤔 ご質問やご要望
 
 If you have any questions or something is unclear, please don't hesitate to [create an issue](https://github.com/VeeamHub/veeam-webui-jp-plugin/issues/new/choose) and let us know!
