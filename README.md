@@ -6,11 +6,11 @@ Veeam製品のWebUIの日本語ランゲージパックを公開しています�
 * __Veeam Service Provider Console__ 
   * 概要　　　　：CSP・MSPパートナー様向け：顧客バックアップの遠隔管理プラットフォーム
   * 開発中　　　：VSPC-Veeam-JP-WebUI-v-0.5-POC.zip
-  * リリース　　：2023年1月中旬リリース予定
+  * リリース　　：2023年5月中旬リリース予定
 
 * __Veeam Backup for M365 Self Service Restore Portal__ 
   * 概要　　　　：VB365のユーザ向けセルフサービスリストアポータル
-  * リリース　　：2023年3月下旬リリース予定
+  * リリース　　：2023年6月下旬リリース予定
 
 
 ## 【アーカイブ】
