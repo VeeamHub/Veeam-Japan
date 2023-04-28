@@ -26,7 +26,7 @@ Veeam製品のWebUIの日本語ランゲージパックを公開しています�
 
 
 ## 📗 インストール方法
-
+* __Veeam製品WebUIの日本語化パック場合__ 
 * Google Chrome右上のメニューから「その他のツール」→「拡張機能」を選択します
 * 新しいタブで「拡張機能」が表示されます
 * 画面の上「デベロッパーモード」のスイッチをオンにします
@@ -34,14 +34,10 @@ Veeam製品のWebUIの日本語ランゲージパックを公開しています�
 * ダウンロードした拡張機能の保存したフォルダを選択します（Veeam-JP-WebUI-Beta-1.0.1R1)
 
 ## 📗 利用方法
-
+* __Veeam製品WebUIの日本語化パック場合__ 
 * Google Chromeで本プラグインが有効である事を確認します
-* ご利用環境のVeeam Enterprise ManagerのURLへアクセスします
+* ご利用環境のWEBのURLへアクセスします
 * ログイン後、プラグインが正常にインストールされていればVeeamUIが日本語で表示され、バックアップ・リストアなどの作業が実施できます
-
-## ✍ Contributions
-
-We welcome contributions from the community! We encourage you to create [issues](https://github.com/VeeamHub/veeam-webui-jp-plugin/issues/new/choose) for Bugs & Feature Requests and submit Pull Requests. For more detailed information, refer to our [Contributing Guide](CONTRIBUTING.md).
 
 ## 🤝🏾 ライセンス
 
